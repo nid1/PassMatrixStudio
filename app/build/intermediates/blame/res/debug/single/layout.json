@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_userhome.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\layout\\activity_userhome.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_grid_select.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\layout\\activity_grid_select.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login1.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\layout\\activity_login1.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qr.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\layout\\activity_qr.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ipsettings.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\layout\\activity_ipsettings.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loginadimg.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\layout\\loginadimg.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_image.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\layout\\activity_select_image.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_main.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\layout\\activity_login_main.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\smimg.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\layout\\smimg.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_img.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\layout\\activity_custom_img.xml"
+    }
+]

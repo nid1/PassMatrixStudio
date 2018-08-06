@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index.jpg",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\drawable-hdpi\\index.jpg"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\c.jpg",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\drawable-hdpi\\c.jpg"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\images1.jpg",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\drawable-hdpi\\images1.jpg"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\images.jpg",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\drawable-hdpi\\images.jpg"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\b.jpg",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\drawable-hdpi\\b.jpg"
+    }
+]

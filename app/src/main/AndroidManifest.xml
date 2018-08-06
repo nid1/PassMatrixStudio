@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.passmatrix"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="12"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.MANAGE_DOCUMENTS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_CALL_LOG" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission
+        android:name="android.permission.PACKAGE_USAGE_STATS"
+        tools:ignore="ProtectedPermissions" />
+    
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.passmatrix.SelectImage"
+            android:label="@string/title_activity_select_image" >
+        </activity>
+         <activity
+            android:name="com.example.passmatrix.Ipsettings"
+            android:label="@string/app_name" >
+            
+        </activity>
+        <activity
+            android:name="com.example.passmatrix.Login"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.passmatrix.Register"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.passmatrix.QrScan"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.passmatrix.LoginSelectImg"
+            android:label="@string/title_activity_login1" >
+        </activity>
+        <activity
+            android:name="com.example.passmatrix.LoginMain"
+            android:label="@string/title_activity_login_main" >
+        </activity>
+        <activity
+            android:name="com.example.passmatrix.LoginImageAdapter"
+            android:label="@string/title_activity_login_main" >
+        </activity>
+        <activity
+            android:name="com.example.passmatrix.Userhome"
+            android:label="@string/title_activity_userhome" >
+        </activity>
+        
+         <receiver android:name="com.example.passmatrix.PhListener" >
+            <intent-filter android:priority="-1" >
+                <action android:name="android.intent.action.NEW_OUTGOING_CALL" />
+                <action android:name="android.intent.action.PHONE_STATE" />
+            </intent-filter>
+        </receiver>
+        <service android:name="com.example.passmatrix.LocationService"></service>
+         <service android:name="com.example.passmatrix.BehaviourCheck"></service>
+    </application>
+
+</manifest>

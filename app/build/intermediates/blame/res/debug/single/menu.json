@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash_start.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\menu\\splash_start.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\select_image.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\menu\\select_image.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login_main.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\menu\\login_main.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\grid_select.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\menu\\grid_select.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\images.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\menu\\images.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login_indicator.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\menu\\login_indicator.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login_start.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\menu\\login_start.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\userhome.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\menu\\userhome.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login1.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\menu\\login1.xml"
+    },
+    {
+        "merged": "G:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\draglistss.xml",
+        "source": "G:\\Riit\\PassMatrixStudio\\app\\src\\main\\res\\menu\\draglistss.xml"
+    }
+]

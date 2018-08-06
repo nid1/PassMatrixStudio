@@ -1,0 +1,78 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/images3" >
+
+<Button
+ android:id="@+id/loadimage"
+ android:layout_alignParentTop="true"
+ android:layout_width="fill_parent"
+ android:layout_height="wrap_content"
+ android:text="Load Image"/>
+
+<TableRow
+    android:id="@+id/tableRow1"
+    android:layout_alignBottom="@+id/targeturi"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center" >
+ <ImageView
+ android:id="@+id/targetimage"
+ android:layout_width="fill_parent"
+ android:layout_height="fill_parent"
+ android:visibility="gone"/>
+
+</TableRow>
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginBottom="44dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/loadimage"/>
+
+    <GridView
+        android:id="@+id/gridView1"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/button1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/tableRow1"
+        android:gravity="center"
+        android:horizontalSpacing="1dp"
+        android:numColumns="3"
+        android:paddingRight="2dp"
+        android:verticalSpacing="1dp" >
+
+    </GridView>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="70dp"
+        android:hint=" "
+        android:text=" NEXT " />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="22dp"
+        android:layout_toLeftOf="@+id/button1"
+        android:text=" CLEAR " />
+
+    <TextView
+        android:id="@+id/targeturi"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/imageView1"
+        android:text="" />
+    
+</RelativeLayout>

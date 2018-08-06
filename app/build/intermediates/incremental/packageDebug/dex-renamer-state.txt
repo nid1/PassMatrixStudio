@@ -1,0 +1,7 @@
+#Sun Mar 18 21:22:03 GMT+05:30 2018
+base.0=G\:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_904375d1a88aa36a02728003755921da3aa1a6f7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9afb67a01dd20f02248f44704bb966fd0d39ddd6\\classes.dex
+base.1=G\:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9afb67a01dd20f02248f44704bb966fd0d39ddd6
+file.0=G\:\\Riit\\PassMatrixStudio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_904375d1a88aa36a02728003755921da3aa1a6f7\\classes.dex
